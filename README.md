@@ -1,6 +1,6 @@
-# Ant Design Pro
+# Wing框架的UI界面
 
-This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
+这是微服务框架 [Wing](https://https://github.com/PingPongBoy/Wing)的UI界面。 Follow is the quick guide for how to use.
 
 ## Environment Prepare
 
